@@ -1,0 +1,6 @@
+fastapi==0.110.1
+uvicorn==0.29.0
+geoip2==4.7.0
+fastmcp>=2.9.0
+mmdb-writer==0.2.5
+netaddr>=0.7

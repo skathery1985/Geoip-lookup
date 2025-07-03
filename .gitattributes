@@ -1,0 +1,2 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+db/GeoLite2-City-Blocks-IPv4.csv filter=lfs diff=lfs merge=lfs -text
