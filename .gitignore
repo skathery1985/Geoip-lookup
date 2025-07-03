@@ -207,4 +207,4 @@ marimo/_lsp/
 __marimo__/
 
 # Large database files
-db/GeoLite2-City-Blocks-IPv4.csv
+# Removed db/GeoLite2-City-Blocks-IPv4.csv as it's now tracked by Git LFS
