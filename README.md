@@ -1,4 +1,4 @@
-# GeoIP2-python Service
+# GeoIP2-lookup Arabic/English Service
 
 This is a FastAPI-based service that provides GeoIP lookup functionality with support for both English and Arabic languages. The service uses MaxMind's GeoLite2 databases and provides various endpoints for IP geolocation queries. The service also includes MCP (Model Context Protocol) support for integration with AI tools and agents.
 
